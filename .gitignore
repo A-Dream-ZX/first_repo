@@ -1,2 +1,4 @@
+# 测试忽略access.log文件
 access.log
+# 忽略 .log文件
 *.log
